@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>115365272457-sfis9a53tnfkvaj6jjq8t3v9ikhta9qu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.115365272457-sfis9a53tnfkvaj6jjq8t3v9ikhta9qu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDN8OEvTlKLn5ny4u7zKKXXd85JdvVw5qs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>115365272457</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.halago.halago</string>
+	<key>PROJECT_ID</key>
+	<string>taxi-app-b17d2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taxi-app-b17d2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:115365272457:ios:ab5cc1055dd9f29ed95f58</string>
+	<key>DATABASE_URL</key>
+	<string>https://taxi-app-b17d2-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

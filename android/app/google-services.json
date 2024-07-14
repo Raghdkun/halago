@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "115365272457",
+    "firebase_url": "https://taxi-app-b17d2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "taxi-app-b17d2",
+    "storage_bucket": "taxi-app-b17d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115365272457:android:9690f8669ce79a1dd95f58",
+        "android_client_info": {
+          "package_name": "com.example.halago.halago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115365272457-iri5856qdna9rfkr0o79ukoesqbv4dqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.halago.halago",
+            "certificate_hash": "114a6b7e44c2b5ed9f3625f363d8c1a20a61d87e"
+          }
+        },
+        {
+          "client_id": "115365272457-a9528ndklfu7fef1ifufp96dha5pefj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MJGZiIknnbuId59exYzx5ptvyCC3EvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115365272457-a9528ndklfu7fef1ifufp96dha5pefj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115365272457-sfis9a53tnfkvaj6jjq8t3v9ikhta9qu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.halago.halago"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
